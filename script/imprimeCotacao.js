@@ -16,8 +16,8 @@ const plurais = {
 } 
     for (let multiplicador = 1; multiplicador <= 1000; multiplicador *=10) {
         const listaItem = document.createElement('li');
-        // Se multiplicador igual à 1, será impresso o nome. Caso seja maior...
-        // ...será feito a busca em plurais com o condizente da palavra no "singular". 
+        // Se multiplicador igual à 1, será impresso o nome no singular. Caso seja maior...
+        // ...será feito a busca em plurais com o adverso que seria o plural. 
         listaItem.innerHTML = `${multiplicador} ${multiplicador == 1 ? nome : plurais[nome]}: R$${(valor * multiplicador).toFixed(2)}`;
         lista.appendChild(listaItem);
     }
