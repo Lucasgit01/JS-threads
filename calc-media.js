@@ -1,1 +1,0 @@
-const nota1 = 5;
