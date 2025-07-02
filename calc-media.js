@@ -1,1 +1,1 @@
-const nota1 = 10;
+const nota1 = 5;
