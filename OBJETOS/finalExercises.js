@@ -10,10 +10,11 @@ function buscaSetor(id) {
     }
 }
 
-const buscaLimite = setores.filter((setor) => {
-    return setor.id <= 4;
-})
-
-console.log(buscaLimite);
+function limitSearch(maxValue) {
+    return setores.filter((setor) => {
+        return setor.id <= maxValue;
+    })
+}
+console.log(limitSearch(3));
 
 buscaSetor(3);
