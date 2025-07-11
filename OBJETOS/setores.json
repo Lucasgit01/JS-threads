@@ -1,0 +1,67 @@
+[
+    {
+    "id": 1,
+    "nome": "Lucas Silva",
+    "idade": "21",
+    "cargo": "Desenvolvedor",
+    "setor": "Tecnologia",
+    "contratadoEm": "18 de fevereiro de 2025",
+    "endereco": {
+        "rua": "Rua A",
+        "cidade":  "São Paulo",
+        "cep": "08756876"
+        }
+    },
+    {
+    "id": 2,
+    "nome": "Laura",
+    "idade": "28",
+    "cargo": "RH",
+    "setor": "Administração",
+    "contratadoEm": "15 de maio de 2020",
+    "endereco": {
+        "rua": "Rua H",
+        "cidade":  "São Paulo",
+        "cep": "06754734"
+        }
+    },
+    {
+    "id": 3,
+    "nome": "Maicon",
+    "idade": "35",
+    "cargo": "Expedidor",
+    "setor": "Expedição",
+    "contratadoEm": "07 de outubro de 2023",
+    "endereco": {
+        "rua": "Avenida J",
+        "cidade":  "São Paulo",
+        "cep": "045673893"
+        }
+    },
+    {
+    "id": 4,
+    "nome": "Clara",
+    "idade": "18",
+    "cargo": "Auxiliar",
+    "setor": "Suporte",
+    "contratadoEm": "18 de fevereiro de 2025",
+    "endereco": {
+        "rua": "Rua U",
+        "cidade":  "São Paulo",
+        "cep": "08725846"
+        }
+    },
+    {
+    "id": 5,
+    "nome": "Leonardo",
+    "idade": "24",
+    "cargo": "Vendedor",
+    "setor": "Vendas",
+    "contratadoEm": "26 de junho de 2022",
+    "endereco": {
+        "rua": "Alameda A",
+        "cidade":  "São Paulo",
+        "cep": "04752873"
+        }
+    }
+]
